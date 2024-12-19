@@ -41,7 +41,7 @@ IVGEN-XL is an advanced model designed for generating videos from image and text
      !pip install -r requirements.txt
      ```
 
-5. **Run the Notebook**\*:\*
+5. **Run the Notebook**:
 
    - Follow the step-by-step instructions provided in the notebook to input images and text, and generate videos.
 
