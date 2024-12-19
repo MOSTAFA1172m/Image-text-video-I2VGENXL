@@ -21,7 +21,7 @@ IVGEN-XL is an advanced model designed for generating videos from image and text
 
    - Clone the repository or download the `IVGEN-XL.ipynb` file directly.
      ```bash
-     git clone https://github.com/yourusername/IVGEN-XL.git
+     git clone https://github.com/MOSTAFA1172m/Image-text-video-IVGENXL.git
      cd IVGEN-XL
      ```
 
@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to [your.email@example.com](mailto\:your.email@example.com).
+For any questions or feedback, feel free to reach out to [my linkedin](https://www.linkedin.com/in/mostafa-hazem-961931294/).
 
 ---
 
