@@ -1,5 +1,7 @@
 # IVGEN-XL: Image + Text to Video Diffusion Model
 
+**Deployed on Hugging Face Spaces**: You can try the model directly on [Hugging Face Spaces](https://huggingface.co/spaces/MostafaHazem/I2vgen-xl). Please note that the deployment currently uses CPU rather than GPU, so the video generation may take longer than expected.
+
 IVGEN-XL is an advanced model designed for generating videos from image and text inputs. It employs a cascaded architecture, leveraging diffusion processes to produce high-quality and coherent video outputs. This repository provides an easy-to-use Jupyter Notebook to get started with IVGEN-XL.
 
 ## Features
@@ -45,6 +47,25 @@ IVGEN-XL is an advanced model designed for generating videos from image and text
 
    - Follow the step-by-step instructions provided in the notebook to input images and text, and generate videos.
 
+## Results
+
+### Example Outputs
+
+- **Image + Text Input**: Here's an example of how the model processes an image with text input to generate a video.
+
+   ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](path/to/your/example-video.gif)
+  
+
+- **Generation Speed**: Since the Hugging Face Space is running on a CPU, video generation might take more time compared to GPU-based environments. On Kaggle, you can use GPU for faster results.
+
+Feel free to experiment with different inputs and see how the model generates videos in response.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -56,4 +77,3 @@ For any questions or feedback, feel free to reach out to [my linkedin](https://w
 ---
 
 *Note: Ensure the GPU runtime is enabled before running the notebook to avoid performance issues.*
-
