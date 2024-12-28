@@ -1,7 +1,7 @@
 # IVGEN-XL: Image + Text to Video Diffusion Model
 
 
-IVGEN-XL is an advanced model designed for generating videos from image and text inputs. It employs a cascaded architecture, leveraging diffusion processes to produce high-quality and coherent video outputs. This repository provides an easy-to-use Jupyter Notebook to get started with IVGEN-XL.
+IVGEN-XL is a Cascaded Diffussion model designed for generating videos from image and text inputs. It employs a cascaded architecture, leveraging diffusion processes to produce high-quality and coherent video outputs. This repository provides an easy-to-use Jupyter Notebook to get started with IVGEN-XL.
 
 ## Features
 
