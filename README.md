@@ -53,13 +53,11 @@ IVGEN-XL is an advanced model designed for generating videos from image and text
 
 - **Image + Text Input**: Here's an example of how the model processes an image with text input to generate a video.
 
-   ![Example Output](path/to/your/example-video.gif)
-  ![Example Output](path/to/your/example-video.gif)
-  ![Example Output](path/to/your/example-video.gif)
-  ![Example Output](path/to/your/example-video.gif)
-  ![Example Output](path/to/your/example-video.gif)
-  ![Example Output](path/to/your/example-video.gif)
-  ![Example Output](path/to/your/example-video.gif)
+  ![Example Output](results/Newton.gif)
+  ![Example Output](results/monalisa.gif)
+  ![Example Output](results/car.gif)
+  ![Example Output](results/sea.gif)
+  ![Example Output](results/sky.gif)
   
 
 - **Generation Speed**: Since the Hugging Face Space is running on a CPU, video generation might take more time compared to GPU-based environments. On Kaggle, you can use GPU for faster results.
