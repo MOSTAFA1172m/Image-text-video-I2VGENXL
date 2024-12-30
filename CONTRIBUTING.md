@@ -1,6 +1,6 @@
 # Contributing to Image-text-video-IVGEN-XL
 
-Thank you for considering contributing to [Image-text-video-IVGEN-XL]! Here’s how you can help:
+Thank you for considering contributing to Image-text-video-IVGEN-XL Here’s how you can help:
 
 ## Getting Started
 1. Fork the repository.
