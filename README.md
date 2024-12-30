@@ -1,4 +1,4 @@
-# IVGEN-XL: Image + Text to Video Diffusion Model
+# I2VGEN-XL: Image + Text to Video Diffusion Model
 
 
 I2VGEN-XL is a Cascaded Diffussion model designed for generating videos from image and text inputs. It employs a cascaded architecture, leveraging diffusion processes to produce high-quality and coherent video outputs. This repository provides an easy-to-use Jupyter Notebook to get started with I2VGEN-XL.
