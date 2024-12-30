@@ -3,7 +3,7 @@
 
 IVGEN-XL is a Cascaded Diffussion model designed for generating videos from image and text inputs. It employs a cascaded architecture, leveraging diffusion processes to produce high-quality and coherent video outputs. This repository provides an easy-to-use Jupyter Notebook to get started with IVGEN-XL.
 
-<a href='https://i2vgen-xl.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2311.04145'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [! [![Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm-dark.svg)](https://huggingface.co/papers/2311.04145) 
+<a href='https://i2vgen-xl.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2311.04145'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [Paper page](https://huggingface.co/datasets/huggingface/badges/resolve/main/paper-page-sm-dark.svg)](https://huggingface.co/papers/2311.04145) 
 [![Replicate](https://replicate.com/cjwbw/i2vgen-xl/badge)](https://replicate.com/cjwbw/i2vgen-xl/)
 
 ## Features
