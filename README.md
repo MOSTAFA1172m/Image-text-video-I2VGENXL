@@ -11,7 +11,8 @@ I2VGEN-XL is a Cascaded Diffussion model designed for generating videos from ima
 - **Multimodal Inputs**: Combines images and text to create dynamic video outputs.
 - **Cascaded Architecture**: Utilizes a hierarchical approach to ensure progressively refined video quality.
 - **Lightweight Setup**: Run directly in Jupyter Notebook with minimal setup requirements.
-
+ **Model Architecture**
+  ![Modelfigure](results/i2vgenxl-model-figure.gif)
 ## Getting Started
 
 ### Requirements
