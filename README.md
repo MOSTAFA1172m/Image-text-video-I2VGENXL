@@ -16,7 +16,7 @@ I2VGEN-XL is a Cascaded Diffussion model designed for generating videos from ima
   | **Model Architecture** |
 | -------------- |
 | ![Modelfigure](results/i2vgenxl-model-figure.gif) |
----
+--
 
 ## Getting Started
 
